@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318182318765",
+    "firebase_url": "https://socflu-5bdb5.firebaseio.com",
+    "project_id": "socflu-5bdb5",
+    "storage_bucket": "socflu-5bdb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318182318765:android:3223d6235ed14279921c24",
+        "android_client_info": {
+          "package_name": "com.margaal.socflu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318182318765-jedga2gcnbj0vlpufricrmfudcpn4gg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT0Vg3bg0j28l4c--HJxkclEv2Pa3baec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318182318765-jedga2gcnbj0vlpufricrmfudcpn4gg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

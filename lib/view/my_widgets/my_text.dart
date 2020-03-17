@@ -1,0 +1,17 @@
+import 'package:flutter/material.dart';
+
+import 'constant.dart';
+
+class MyText extends Text{
+  MyText(String data,{
+    TextAlign alignment: TextAlign.center,
+    double fontSize: 17.0,
+    FontStyle style: FontStyle.normal,
+    Color color: Colors.black
+  }) : super(data, textAlign: alignment, style: TextStyle(
+    fontSize: fontSize,
+    fontStyle: style,
+    color: color
+  ));
+
+}
